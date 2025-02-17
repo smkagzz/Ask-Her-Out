@@ -1,3 +1,3 @@
-Quick Valentine Project
+Valentine Project
 
 LINK: https://smkagzz.github.io/Be-my-valentine/
